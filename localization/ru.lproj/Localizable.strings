@@ -1,0 +1,153 @@
+"SettingsHeader" = "Основные";
+
+/* Downloading section */
+"DownloadingHeader" = "Загрузка";
+"DownloadClips" = "Загрузка клипов";
+"DownloadLive" = "Загрузка трансляций";
+"DownloadVODs" = "Загрузка VOD";
+"ProfileInfoButton" = "Кнопка информации профиля";
+
+/* Player section */
+"PlayerHeader" = "Плеер";
+"QualityWifi" = "Качество по Wi-Fi";
+"QualityCellular" = "Качество по сотовой сети";
+"Best" = "Наилучшее";
+"Default" = "По умолчанию";
+"PlayerFooter" = "Выбор качества воспроизведения работает только с плеером низкой задержки";
+
+"ClaimPoints" = "Получать баллы канала";
+"ClaimPointsDesc" = "Автоматически получает баллы канала, когда они доступны";
+"SystemPlayer" = "Кнопка системного плеера";
+"SystemPlayerDesc" = "Открывает медиа в стандартном плеере iOS";
+"LiveStats" = "Статистика трансляции";
+"LiveStatsDesc" = "Показывает битрейт, задержку и другую информацию. Доступно только в режиме низкой задержки";
+"TwoFingerTap" = "Касание двумя пальцами";
+"TwoFingerTapDesc" = "Коснитесь двумя пальцами для воспроизведения или паузы";
+"HideClips" = "Скрыть кнопку клипов";
+"HideClipsDesc" = "Убирает кнопку клипов из управления плеером";
+"HideCast" = "Скрыть кнопку трансляции";
+"HideCastDesc" = "Убирает кнопку трансляции на ТВ из управления плеером";
+"HideShare" = "Скрыть кнопку поделиться";
+"HideShareDesc" = "Убирает кнопку поделиться из управления плеером";
+"HideMature" = "Скрыть баннер взрослого контента";
+"HideMatureDesc" = "Автоматически скрывает предупреждение о контенте для взрослых";
+"HideAspectRatio" = "Скрыть кнопку соотношения сторон";
+"HideAspectRatioDesc" = "Убирает кнопку соотношения сторон из управления плеером";
+"HideChat" = "Скрыть кнопку чата";
+"HideChatDesc" = "Убирает кнопку чата из управления плеером";
+"HideRotate" = "Скрыть кнопку поворота";
+"HideRotateDesc" = "Убирает кнопку поворота из управления плеером";
+"HideMute" = "Скрыть кнопку отключения звука";
+"HideMuteDesc" = "Убирает кнопку отключения звука из управления плеером";
+"HideSideButtons" = "Скрыть боковые кнопки";
+"HideSideButtonsDesc" = "Скрывает кнопки взаимодействия, отображаемые по бокам в полноэкранном режиме";
+
+/* Tab bar section */
+"Tabbar" = "Панель вкладок";
+"Startup" = "Начальная вкладка";
+"ActiveTabs" = "Отображаемые вкладки";
+"InactiveTabs" = "Скрытые вкладки";
+"CantHideHomeTab" = "Нельзя скрыть главную вкладку";
+"home" = "Главная";
+"explore" = "Просмотр";
+"create" = "Создать";
+"activity" = "События";
+"profile" = "Профиль";
+"following" = "Отслеживаемое";
+"discover" = "Поиск";
+"browse" = "Просмотр";
+"search" = "Поиск";
+
+"Advanced" = "Дополнительно";
+"ManagePreferences" = "Управление настройками";
+"ImportPreferences" = "Импортировать настройки";
+"PreImportMessage" = "Данное действие перезапишет существующие настройки твика на те, что будут в выбираемом файле.\n\nУверены, что хотите продолжить?";
+"ExportPreferences" = "Экспортировать настройки";
+"ResetSettings" = "Восстановить настройки по умолчанию";
+"ResetMessage" = "Данное действие вернет настройки Tweach к значениям по умолчанию.\n\nУверены, что хотите продолжить?";
+
+"ManageCache" = "Управление кешем";
+"ClearCacheAtStart" = "Очищать кеш при запуске";
+"ClearCache" = "Очистить кеш";
+
+/* Ad block section */
+"EnableAdBlock" = "Блокировка рекламы";
+"EnableAdBlockDesc" = "Блокирует рекламу в трансляциях, ленте и вкладке подписок";
+"EnableAdBlockProxy" = "Использовать прокси";
+"EnableAdBlockProxyDesc" = "Перенаправляет запросы трансляций через прокси-сервер в регионе без рекламы";
+"AdBlockProxy" = "Адрес прокси";
+
+/* Developer section */
+"DeveloperHeader" = "Разработчик";
+"Dev.Twitter" = "Подписаться на мой Twitter";
+"Dev.Twitch" = "Подписаться на мой Twitch";
+"SupportDevelopment" = "Поддержать разработку";
+
+/* Acknowledgements section */
+"AcknowledgementsHeader" = "Благодарности";
+"SpecialThanks" = "Особая благодарность";
+
+/* Patreon section */
+"Log-inViaPatreon" = "Войти с помощью Patreon";
+"ManageAccount" = "Управление аккаунтом";
+"AccessDenied" = "Нет доступа";
+"LogOut" = "Выйти";
+"LogOutTitle" = "Выход";
+"LogOutMessage" = "Уверены, что хотите продолжить?";
+
+/* UI strings */
+"ClipDetected" = "Обнаружен клип. Хотите скачать его?";
+"DownloadingDuration" = "Длительность загрузки";
+"RecordingDuration" = "Продолжительность записи";
+"Quality" = "Качество";
+"audio_only" = "Только аудио";
+"DownloadFull" = "Скачать целиком";
+"RecordUntilEnd" = "Записывать до окончания";
+"Download" = "Скачать";
+"DownloadClip" = "Скачать клип";
+"AudioOnly" = "Аудио";
+"Save" = "Сохранить";
+"Copy" = "Копировать";
+"Copied" = "Скопировано";
+"Yes" = "Да";
+"NoThanks" = "Нет, спасибо";
+"Cancel" = "Отмена";
+"StopTitle" = "Загрузка была остановлена.\nХотите сохранить уже загруженный отрезок?";
+"SafariRedirectMessage" = "Это действие откроет текущую трансляцию в Safari. Хотите продолжить?";
+"OpenEditor" = "Открыть редактор клипов";
+"DownloadStory" = "Скачать историю";
+"QueuedForDownload" = "В очереди на загрузку";
+"Preparing" = "Подготовка...";
+"Error.LinkNotFound" = "Ссылка не найдена";
+"Downloading" = "Загрузка";
+"DownloadingVideo" = "Загрузка видео";
+"FailedToSave" = "Не удалось сохранить файл";
+"FailedToFetch" = "Не удалось получить ссылку";
+"SavingToPath" = "Сохранение в выбранную папку";
+"SavedToPhotos" = "Сохранено в фото";
+"DownloadCompleted" = "Загрузка завершена";
+"DownloadNotCompleted" = "Произошла ошибка во время скачивания";
+"ChannelPointsClaimed" = "Получены очки канала";
+"SwipeUpEduMessage" = "Теперь можно провести пальцем вверх по панели вкладок для быстрого доступа к настройкам Tweach";
+"LongTapOnTabEduMessage" = "Также можно зажать любую вкладку для быстрого доступа к настройкам панели вкладок";
+
+"ProfileInfo" = "Информация";
+"UserID" = "UserID";
+"CreateDate" = "Дата регистрации";
+"DisplayName" = "Отображаемое имя";
+"Description" = "Описание";
+"ProfilePicture" = "Фото профиля";
+"BannerImage" = "Изображение баннера";
+"OfflineBannerImage" = "Изображение баннера (офлайн)";
+"SaveToPhotos" = "Сохранить в Фото";
+"Oops" = "Что-то пошло не так...";
+"Close" = "Закрыть";
+
+"SyncTime" = "Время синхронизации";
+"CurrentQuality" = "Качество";
+"FrameRate" = "Частота кадров";
+"LiveStats" = "Статистика эфира";
+"Latency" = "Задержка";
+"Bitrate" = "Битрейт";
+"DecodedFrames" = "Декодированные кадры";
+"DroppedFrames" = "Пропущенные кадры";

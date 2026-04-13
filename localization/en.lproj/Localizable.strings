@@ -1,0 +1,154 @@
+"SettingsHeader" = "General";
+
+/* Downloading section */
+"DownloadingHeader" = "Downloading";
+"DownloadClips" = "Download Clips";
+"DownloadLive" = "Download Broadcasts";
+"DownloadVODs" = "Download VODs";
+"ProfileInfoButton" = "Profile Info Button";
+
+/* Player section */
+"PlayerHeader" = "Player";
+"QualityWifi" = "Quality on WiFi";
+"QualityCellular" = "Quality on Cellular";
+"Best" = "Best";
+"Default" = "Default";
+"PlayerFooter" = "Playback quality selection works only with the Low Latency Player";
+
+"ClaimPoints" = "Claim Channel Points";
+"ClaimPointsDesc" = "Automatically claims channel points when available";
+"SystemPlayer" = "System Player Button";
+"SystemPlayerDesc" = "Opens the media in the native iOS player";
+"LiveStats" = "Display Live Stats";
+"LiveStatsDesc" = "Shows bitrate, latency and other stream info. Available in low latency mode only";
+"TwoFingerTap" = "Two-Finger Tap";
+"TwoFingerTapDesc" = "Tap with two fingers to play or pause";
+"HideClips" = "Hide Clips Button";
+"HideClipsDesc" = "Removes the clips button from the player controls";
+"HideCast" = "Hide Cast Button";
+"HideCastDesc" = "Removes the cast button from the player controls";
+"HideShare" = "Hide Share Button";
+"HideShareDesc" = "Removes the share button from the player controls";
+"HideMature" = "Hide Mature-rated Banner";
+"HideMatureDesc" = "Dismisses the content warning banner automatically";
+"HideAspectRatio" = "Hide Aspect Ratio Button";
+"HideAspectRatioDesc" = "Removes the aspect ratio button from the player controls";
+"HideChat" = "Hide Chat Button";
+"HideChatDesc" = "Removes the chat button from the player controls";
+"HideRotate" = "Hide Rotate Button";
+"HideRotateDesc" = "Removes the rotate button from the player controls";
+"HideMute" = "Hide Mute Button";
+"HideMuteDesc" = "Removes the mute button from the player controls";
+"HideSideButtons" = "Hide Side Buttons";
+"HideSideButtonsDesc" = "Hides the engagement buttons displayed on the sides in fullscreen mode";
+
+/* Tab bar section */
+"Tabbar" = "Tab bar";
+"Startup" = "Startup tab";
+"ActiveTabs" = "Active tabs";
+"InactiveTabs" = "Inactive tabs";
+"CantHideHomeTab" = "Can't hide home tab";
+"home" = "Home";
+"explore" = "Browse";
+"create" = "Create";
+"activity" = "Activity";
+"profile" = "Profile";
+"following" = "Following";
+"discover" = "Discover";
+"browse" = "Browse";
+"search" = "Search";
+
+/* Preferences section */
+"Advanced" = "Advanced";
+"ManagePreferences" = "Preferences Management";
+"ImportPreferences" = "Import Preferences";
+"PreImportMessage" = "This action will replace the current preferences with those from the selected file.\n\nAre you sure you want to continue?";
+"ExportPreferences" = "Export Preferences";
+"ResetSettings" = "Restore Default Settings";
+"ResetMessage" = "This action will reset Tweach settings to default and close YouTube.\n\nAre you sure you want to continue?";
+
+"ManageCache" = "Cache Management";
+"ClearCacheAtStart" = "Clear Cache on Startup";
+"ClearCache" = "Clear Cache";
+
+/* Ad block section */
+"EnableAdBlock" = "Enable Ad Block";
+"EnableAdBlockDesc" = "Block ads in streams, feed, and following tab";
+"EnableAdBlockProxy" = "Enable Proxy";
+"EnableAdBlockProxyDesc" = "Route stream requests through a proxy server located in an ad-free region";
+"AdBlockProxy" = "Proxy Address";
+
+/* Developer section */
+"DeveloperHeader" = "Developer";
+"Dev.Twitter" = "Follow Me on X (Twitter)";
+"Dev.Twitch" = "Follow Me on Twitch";
+"SupportDevelopment" = "Support Development";
+
+/* Acknowledgements section */
+"AcknowledgementsHeader" = "Acknowledgements";
+"SpecialThanks" = "Special Thanks";
+
+/* Patreon section */
+"Log-inViaPatreon" = "Log-in via Patreon";
+"ManageAccount" = "Manage account";
+"AccessDenied" = "Access denied";
+"LogOut" = "Log out";
+"LogOutTitle" = "Log out";
+"LogOutMessage" = "Are you sure you want to continue?";
+
+/* UI strings */
+"ClipDetected" = "Clip detected. Would you like to download it?";
+"DownloadingDuration" = "Downloading Duration";
+"RecordingDuration" = "Recording Duration";
+"Quality" = "Quality";
+"audio_only" = "Audio Only";
+"DownloadFull" = "Download Full VOD";
+"RecordUntilEnd" = "Record Until End";
+"Download" = "Download";
+"DownloadClip" = "Download Clip";
+"AudioOnly" = "Audio";
+"Yes" = "Yes";
+"Save" = "Save";
+"Copy" = "Copy";
+"Copied" = "Copied";
+"NoThanks" = "No, Thanks";
+"Cancel" = "Cancel";
+"StopTitle" = "Download has been stopped.\nDo you want to save downloaded part?";
+"SafariRedirectMessage" = "This action will play current broadcast in Safari. Do you want to continue?";
+"OpenEditor" = "Open clip editor";
+"DownloadStory" = "Download story";
+"QueuedForDownload" = "Queued for download";
+"Preparing" = "Preparing...";
+"Error.LinkNotFound" = "Link not found";
+"Downloading" = "Downloading";
+"DownloadingVideo" = "Downloading video";
+"FailedToSave" = "Failed to save file";
+"FailedToFetch" = "Failed to fetch link";
+"SavingToPath" = "Saving to selected path";
+"SavedToPhotos" = "Saved to the Photos";
+"DownloadCompleted" = "Download succeeded";
+"DownloadNotCompleted" = "An error occurred while downloading";
+"ChannelPointsClaimed" = "Channel points claimed";
+"SwipeUpEduMessage" = "You can now swipe up on the tab bar to quickly access Tweach settings";
+"LongTapOnTabEduMessage" = "You can also long press any tab to quickly access tab bar settings";
+
+"ProfileInfo" = "Profile info";
+"UserID" = "UserID";
+"CreateDate" = "Created at";
+"DisplayName" = "Display name";
+"Description" = "Description";
+"ProfilePicture" = "Profile picture";
+"BannerImage" = "Banner image";
+"OfflineBannerImage" = "Offline banner image";
+"SaveToPhotos" = "Save to Photos";
+"Oops" = "Something went wrong...";
+"Close" = "Close";
+
+"SyncTime" = "Sync time";
+"CurrentQuality" = "Current quality";
+"FrameRate" = "Frame rate";
+"LiveStats" = "Live stats";
+"Latency" = "Latency";
+"Bitrate" = "Bitrate";
+"DecodedFrames" = "Decoded frames";
+"DroppedFrames" = "Dropped frames";
