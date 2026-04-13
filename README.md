@@ -34,8 +34,8 @@ Download your favorite Clips, VODs and Live Streams with Tweach.
 <li>Other: Import, export and reset preferences, clear cache manually or automatically on startup</li>
 <br>
 
-**Tweach preferences are available in the Twitch settings or by swiping up on the tab bar**
-**Used open-source libraries are listed in the Acknowledgements section**
+**Tweach preferences are available in the Twitch settings or by swiping up on the tab bar**  
+**Used open-source libraries are listed in the Acknowledgements section**  
 
 ## Supported Twitch Version
 <ul>
